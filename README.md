@@ -5,7 +5,7 @@
 
   <h3 align="center">Dice App</h3>
   <p align="center">
-   A simple IOS app which shows random dice faces by pressing a button or shaking the phone.
+   A simple IOS app which shows random dice faces by pressing a button or shaking the phone. 🎲
   </p>
 </p>
 
